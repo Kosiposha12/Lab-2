@@ -1,0 +1,16 @@
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.exe
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.deps.json
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.json
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.dev.json
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.dll
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ref\ConsoleApp6.dll
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.pdb
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.AssemblyReference.cache
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfo.cs
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.dll
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ref\ConsoleApp6.dll
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.pdb
+D:\ConsoleApp6\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.genruntimeconfig.cache
